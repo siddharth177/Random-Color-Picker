@@ -1,0 +1,21 @@
+#card{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+#itemCard{
+    margin: auto;
+    padding: 2em 6em;
+    background-color: white;
+    text-align: center;
+}
+
+/* #btns{
+    display: block;
+}
+
+#btn{
+    border: 0.001em solid black;
+    border-radius: 0.1em;
+} */
