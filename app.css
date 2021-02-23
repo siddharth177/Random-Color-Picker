@@ -2,6 +2,7 @@
     position: absolute;
     top: 50%;
     left: 40%;
+    display: flex;
 }
 
 #itemCard{
